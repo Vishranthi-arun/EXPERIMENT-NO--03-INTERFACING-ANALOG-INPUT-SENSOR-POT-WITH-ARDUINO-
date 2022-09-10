@@ -92,8 +92,4 @@ void loop()
 **Simulation output:** 
 ![EEE](https://user-images.githubusercontent.com/93427278/189496834-a7831cb9-b247-4311-ac7e-2b349e1bde63.png)
 
-**
-
-[My image](username.github.com/repository/img/image.jpg)
-
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
