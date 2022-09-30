@@ -92,7 +92,10 @@ void loop()
 
 ![EEE](https://user-images.githubusercontent.com/93427278/189496834-a7831cb9-b247-4311-ac7e-2b349e1bde63.png)
 
+## Serial Monitor:
+![ser](https://user-images.githubusercontent.com/93427278/193316206-8f3d219b-283c-4d42-b076-ff50136319bb.png)
 
 
 **RESULT:** 
+
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
